@@ -1,8 +1,15 @@
 # Changelog
 
-## [Unreleased]
+## [v1.1.0] - 2026
 
-- (pendiente)
+### Corregido
+
+- Eliminadas credenciales reales versionadas en config/.env (ISSUE-1).
+- Agregado config/.env.ejemplo como plantilla segura.
+
+### Agregado
+
+- REQ-003 documentado: filtro de tareas por materia.
 
 ## [v1.0.0] - 2026
 
